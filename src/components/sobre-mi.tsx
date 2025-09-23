@@ -21,7 +21,7 @@ export function WobbleCardDemo() {
           </p>
         </div>
         <img
-          src="/src/assets/tipo-programando.webp"
+          src="/img/tipo-programando.webp"
           width={400}
           height={400}
           alt="tipo-programando"
@@ -53,7 +53,7 @@ export function WobbleCardDemo() {
           </p>
         </div>
         <img
-          src="/src/assets/tipo-estudiando.webp"
+          src="/img/tipo-estudiando.webp"
           width={400}
           height={400}
           alt="tipo-estudiando"
