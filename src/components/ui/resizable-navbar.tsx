@@ -217,9 +217,9 @@ export const NavbarLogo = () => {
       className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal text-black"
     >
       <img
-        src="/img/pfp.webp"
+        src="/img/pfp-traje.webp"
         alt="logo"
-        className="size-8 rounded-full object-cover bg-neutral-600/30 backdrop-blur-sm"
+        className="size-10 rounded-full object-cover"
       />
       <span className="font-medium text-black dark:text-white">
         Jois Rosales
