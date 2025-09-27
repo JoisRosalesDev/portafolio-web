@@ -34,7 +34,7 @@ export function NavbarDemo() {
           <NavbarLogo />
           <NavItems items={navItems} />
           <div className="flex items-center gap-4">
-            <a href="/CV-Certificados.zip" download>
+            <a href="/cv+certificados.zip" download>
               <NavbarButton variant="primary">CV + Certificados</NavbarButton>
             </a>
           </div>
@@ -65,7 +65,7 @@ export function NavbarDemo() {
               </a>
             ))}
             <div className="flex w-full flex-col gap-4">
-              <a href="/CV-Certificados.zip" download>
+              <a href="/cv+certificados.zip" download>
                 <NavbarButton
                   onClick={() => setIsMobileMenuOpen(false)}
                   variant="primary"

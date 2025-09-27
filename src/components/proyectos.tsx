@@ -6,9 +6,11 @@ import html5Icon from "@/assets/html5.svg";
 import tailwindIcon from "@/assets/tailwindcss.svg";
 import jsIcon from "@/assets/javascript.svg";
 import tsIcon from "@/assets/typescript.svg";
+import pyIcon from "@/assets/python.svg";
 import reactIcon from "@/assets/react_dark.svg";
 import githubIcon from "@/assets/github_dark.svg";
 import astroIcon from "@/assets/astro_dark.svg";
+import angularIcon from "@/assets/angular.svg";
 const people = [
   {
     id: 1,
@@ -32,17 +34,27 @@ const people = [
   },
   {
     id: 5,
+    name: "Python",
+    image: pyIcon,
+  },
+  {
+    id: 6,
     name: "React",
     image: reactIcon,
   },
 
   {
-    id: 6,
+    id: 7,
     name: "Astro",
     image: astroIcon,
   },
   {
-    id: 7,
+    id: 8,
+    name: "Angular",
+    image: angularIcon,
+  },
+  {
+    id: 9,
     name: "GitHub",
     image: githubIcon,
   },
